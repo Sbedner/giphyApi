@@ -1,0 +1,2 @@
+# giphyApi
+giphy API generator
